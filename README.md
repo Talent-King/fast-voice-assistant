@@ -21,5 +21,5 @@ It uses:
 
 ## Run a client
 
-1. Go to the [playground](https://agents-playground.livekit.io/#cam=0&mic=1&video=0&audio=1&chat=0&theme_color=amber) (code [here](https://github.com/livekit/agents-playground))
+1. Go to the [playground](https://agents-playground.livekit.io/#cam=0&mic=1&video=0&audio=1&chat=0&theme_color=amber) (code [here](https://github.com/Talent-King/agents-playground))
 2. Choose the same LiveKit Cloud project you used in the agent's `.env` and click `Connect`
